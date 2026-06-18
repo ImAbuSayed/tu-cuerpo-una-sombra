@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu cuerpo una sombra bailando en la pared
+> Me tienes adicto, baby, tú eres mi sed
+> La noche está oscura, pero brillas pa' mí
+> No quiero a ninguna si no te tengo a ti
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
