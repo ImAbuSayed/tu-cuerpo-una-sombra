@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo una sombra
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo una sombra** (tu-cuerpo-una-sombra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:41:52.493019 | `v1` | `fbba762f01886c7172479f37fe52a353a2c0e16fd43ed62e7316b667c6b87171` | `fa978382f83c2252f32f6431a0c3ed11abfe865d856b565e8928efb0851c6172` | `2026-06-18_tu-cuerpo-una-sombra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-una-sombra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu cuerpo una sombra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-una-sombra/) |
+| **Get License** | [Music Rights & Licensing for Tu cuerpo una sombra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-una-sombra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fbba762f01886c7172479f37fe52a353a2c0e16fd43ed62e7316b667c6b87171` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
